@@ -6,7 +6,7 @@ common word is the longest common word ex. ["goodjob", "go good", "tastegood"] s
 if snake at 100, this game is impossible to win!!! -> return []
 ( [] for board that we can't win )
 ## Q4
-// console.log("Test case 1: no shops no buses -> output : 10")
+// console.log("Test case 1: no shops no buses -> output : 10") <br>
 // console.log(minEnergy(0, [], [], 10));
 // console.log("Test case 2: no shops -> output : 4")
 // console.log(minEnergy(0, [], [2, 4, 6], 8));
