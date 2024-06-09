@@ -7,7 +7,9 @@ if snake at 100, this game is impossible to win!!! -> return []
 ( [] for board that we can't win )
 ## Q4
 this is some test case <br>
-<p style="color: red;">This is a red paragraph. All the text in this paragraph will be red.</p>
+
+Noting that start can be after target in some case!!!<br>
+
 console.log("Test case 1: no shops no buses -> output : 10") <br>
 console.log(minEnergy(0, [], [], 10)); <br>
 console.log("Test case 2: no shops -> output : 4") <br>
