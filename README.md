@@ -6,9 +6,9 @@ common word is the longest common word ex. ["goodjob", "go good", "tastegood"] s
 if snake at 100, this game is impossible to win!!! -> return []
 ( [] for board that we can't win )
 ## Q4
-this is some test case <br>
+This is some test case <br>
 
-Noting that start can be after target in some case!!!<br>
+Important things!!! start can be after target in some case and shops could be reached before entering target<br>
 
 console.log("Test case 1: no shops no buses -> output : 10") <br>
 console.log(minEnergy(0, [], [], 10)); <br>
