@@ -12,5 +12,6 @@ function getClockAngle(hh_mm:string): number {
 	return angle
 }
 
+// console.log(getClockAngle("00:01"))
 // console.log(getClockAngle("09:00"))
 // console.log(getClockAngle("17:30"))

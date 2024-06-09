@@ -29,3 +29,5 @@ function getQuestionPart(phrases:string[]):string[] {
 
 // console.log(getQuestionPart(["hell", "hello", "el"]))
 // console.log(getQuestionPart(["hell", "hello", ""]))
+// console.log(getQuestionPart(["HANDSHAKE", "HEADSHAKE", "EARTHQUAKE"]));
+// console.log(getQuestionPart(["GOODBOYS", "TASTEGOOD", "GOGOODGOD"]));
